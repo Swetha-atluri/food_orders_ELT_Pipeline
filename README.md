@@ -256,12 +256,5 @@ The actual record counts and validation status depend on the dataset and the exe
 - Integrate a workflow orchestrator such as Apache Airflow.
 - Build a dashboard for business metrics and data quality monitoring.
 
-## 👩‍💻 Author
 
-**Swetha Atluri**
 
-GitHub: [Swetha-atluri](https://github.com/Swetha-atluri)
-
-## 📄 License
-
-This project is intended for educational and portfolio purposes. Add a formal open-source license if you want to specify permissions for reuse and distribution.
