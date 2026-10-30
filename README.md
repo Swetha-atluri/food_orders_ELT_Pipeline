@@ -1,4 +1,4 @@
-# 🍽️ Food Orders ELT Pipeline
+# Food Orders ELT Pipeline
 
 A batch-based **Extract, Load, Transform (ELT)** data engineering pipeline built using Python, Pandas, and MySQL. The project demonstrates raw data ingestion, batch processing, data transformation, validation, and analytics-ready data loading.
 
