@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+validation_report.json
+rejected_records.csv
+transformed_valid_records.csv
